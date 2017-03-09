@@ -1,4 +1,4 @@
 sudo: required
 language: java
- - oraclejdk7
-script: maven test -B -e
+ - openjdk7
+script: mvn test -B -e
