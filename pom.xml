@@ -95,7 +95,7 @@
         			<version>2.19.1</version>
         			<configuration>
           				<includes>
-            				<include>UserKNNTestCase.java</include>
+            				<include>net.librec.recommender.cf.rating.*</include>
           				</includes>
         			</configuration>
       		</plugin>
